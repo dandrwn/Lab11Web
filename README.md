@@ -26,7 +26,7 @@ manual dan menggunakan composer. Pada praktikum ini kita menggunakan cara manual
 # Menjalankan CLI (Command Line Interface)
 Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk <br>
 mengakses CLI buka terminal/command prompt.<br>
-![image](img/3.jpg)
+![image](img/3.jpg)<br>
 Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat<br>
 (xampp/htdocs/lab11_ci/ci4/)<br>
 lalu masukan perintah php spark<br>
@@ -34,8 +34,8 @@ lalu masukan perintah php spark<br>
 
 # Mengaktifkan Mode Debugging
 Ubah nama file env menjadi .env kemudian buka file tersebut dan ubah nilai variable<br>
-CI_ENVIRINMENT menjadi development.
-![image](img/.envi.jpg)
+CI_ENVIRINMENT menjadi development.<br>
+![image](img/.envi.jpg)<br>
 
 # Membuat Route Baru
 Tambahkan kode berikut di dalam Routes.php<br>
